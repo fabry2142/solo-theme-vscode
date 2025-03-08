@@ -1,10 +1,11 @@
 {
   "name": "solo-theme-vscode",
-  "displayName": "solo-theme-vscode",
-  "description": "theme dark for vscode",
-  "version": "0.0.1",
+  "displayName": "Solo Theme",
+  "description": "A custom theme for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "your-publisher-name",
   "engines": {
-    "vscode": "^1.98.0"
+    "vscode": "^1.50.0"
   },
   "categories": [
     "Themes"
@@ -12,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "solodark",
+        "label": "Solo Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/solodark-color-theme.json"
       }

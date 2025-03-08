@@ -1,11 +1,38 @@
 {
-	"name": "solodark",
+	"name": "solotheme",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#0f254e6b",
+		"editor.foreground": "#1d53bedc",
+		"activityBar.background": "#00349bdc",
+		"activityBar.foreground": "#ffffff",
+		"activityBarBadge.background": "#0f254e6b",
+		"sideBar.background": "#1e1e1e",
+		"sideBar.foreground": "#c5cccf",
+		"sideBarTitle.foreground": "#164db9dc",
+		"statusBar.background": "#6b73836b",
+		"statusBar.foreground": "#ffffff",
+		"terminal.background": "#000000",
+		"terminal.foreground": "#00FFFF",
+		"debugConsole.infoForeground": "#00FF00",
+		"debugConsole.warningForeground": "#FFFF00",
+		"debugConsole.errorForeground": "#FF0000",
+		"editorCursor.foreground": "#FFCC00",
+		"editor.selectionBackground": "#264F78",
+		"editor.lineHighlightBackground": "#333333",
+		"editorBracketMatch.background": "#006400",
+		"gitDecoration.addedResourceForeground": "#00FF00",
+		"gitDecoration.modifiedResourceForeground": "#FFFF00",
+		"gitDecoration.deletedResourceForeground": "#FF0000",
+		"minimap.background": "#1e1e1e",
+		"scrollbarSlider.background": "#797979"
 	},
+	"editor.fontFamily": "YourFontName, Consolas, 'Courier New', monospace",
+	"editor.fontSize": 15,
+	"editor.fontWeight": "normal",
+	"editor.lineHeight": 23,
+	"editor.letterSpacing": 0.5,
+	"terminal.integrated.fontFamily": "YourFontName, Consolas, 'Courier New', monospace",
+	"terminal.integrated.fontSize": 15,
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -14,8 +41,8 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"fontStyle": "italic bold strikethrough",
+				"foreground": "#a0a0a0d3"
 			}
 		},
 		{
@@ -55,7 +82,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#6fddb8"
 			}
 		},
 		{
@@ -99,7 +126,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#2154c2"
 			}
 		},
 		{
@@ -188,7 +215,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#1348b4dc"
 			}
 		},
 		{
@@ -219,7 +246,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#2e6aeb"
 			}
 		},
 		{
@@ -267,7 +294,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#104dd1"
 			}
 		},
 		{
@@ -294,7 +321,7 @@
 				"markup.changed"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#92eae6"
 			}
 		},
 		{
@@ -334,7 +361,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#5289ff"
 			}
 		},
 		{
@@ -353,7 +380,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#71dd7a"
 			}
 		},
 		{
@@ -416,7 +443,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#92ea99"
 			}
 		},
 		{
@@ -444,7 +471,7 @@
 				"text.html.markdown markup.inline.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#92eae6"
 			}
 		},
 		{
@@ -546,7 +573,7 @@
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#92eade"
 			}
 		},
 		{
@@ -564,7 +591,7 @@
 				"markup.raw.block"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#92eabe"
 			}
 		},
 		{
