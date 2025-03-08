@@ -3,7 +3,7 @@
   "displayName": "Solo Theme",
   "description": "Solo Theme is a custom Visual Studio Code theme with a dark, semi-transparent background and vibrant, easy-to-read syntax highlighting. Perfect for developers who prefer a sleek and modern look.",
   "version": "1.0.0",
-  "publisher": "your-publisher-name",
+  "publisher": "fabry2142",
   "repository": {
     "type": "git",
     "url": "https://github.com/fabry2142/solo-theme-vscode.git"
