@@ -1,6 +1,14 @@
-# solo-theme-vscode
+# Solo Theme for Visual Studio Code
 
-A custom theme for Visual Studio Code with the following changes:
+Solo Theme is a custom Visual Studio Code theme with a dark, semi-transparent background and vibrant, easy-to-read syntax highlighting. It is perfect for developers who prefer a sleek and modern look.
+
+![Solo Theme Screenshot](./images/screenshot.png)
+
+## Features
+
+- **Dark, Semi-Transparent Background**: Provides a modern and stylish look while reducing eye strain.
+- **Vibrant Syntax Highlighting**: Makes code easy to read and understand with distinct colors for different elements.
+- **Customizable Font Settings**: Allows you to set your preferred font family, size, weight, line height, and letter spacing.
 
 ## Changes Made
 
