@@ -104,9 +104,22 @@ Solo Theme is a custom Visual Studio Code theme with a dark, semi-transparent ba
 
 ## Installation
 
+### From GitHub
+
 1. Clone or download this repository.
-2. Copy the `solodark-color-theme.json` file to your VSCode extensions folder.
-3. Open VSCode and go to `File > Preferences > Color Theme`.
-4. Select `Solo Theme` from the list of available themes.
+2. Open a terminal and navigate to the directory where you cloned the repository.
+3. Run `vsce package` to create a `.vsix` file.
+4. Open Visual Studio Code.
+5. Go to the Extensions view by clicking the Extensions icon in the Activity Bar on the side of the window or by pressing `Ctrl+Shift+X`.
+6. Click on the three dots in the top right corner of the Extensions view.
+7. Select "Install from VSIX..." from the dropdown menu.
+8. Navigate to the `.vsix` file you created and select it.
+
+### From VSCode Marketplace
+
+1. Open VSCode and go to `Extensions` (Ctrl+Shift+X).
+2. Search for `Solo Theme`.
+3. Click `Install`.
+4. Go to `File > Preferences > Color Theme` and select `Solo Theme` from the list of available themes.
 
 Enjoy your customized VSCode theme!
